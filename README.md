@@ -1,4 +1,4 @@
-I have developed the total four scenarios and the explanation of these scenarios are as follows:
+I have developed the total four scenarios on Android and the explanation of these scenarios are as follows:
 
 Pre-Requisites for execution:
 
